@@ -1,0 +1,5 @@
+Bundle-Name: background-task-poc
+Bundle-SymbolicName: background-task-poc
+Bundle-Version: 1.0-SNAPSHOT
+
+-metatype: *
